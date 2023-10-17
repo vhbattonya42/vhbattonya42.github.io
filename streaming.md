@@ -16,10 +16,3 @@ title: Home
 
 - **Featured**
   Discover how you can receive funds from this ongoing settlement. Learn more today!
-
-### Other Sections
-
-- [Class Settlements](a_class-settlements.html)
-- [Discounts](a_discount.html)
-- [About Us](about.html)
-- [Contact Us](aa_contact.html)
