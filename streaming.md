@@ -1,6 +1,6 @@
 ---
 layout: theme_layout
-title: Home
+title: Streaming
 ---
 
 ## Streams!
