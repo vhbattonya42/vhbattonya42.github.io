@@ -3,16 +3,9 @@ layout: theme_layout
 title: Streaming
 ---
 
-## Streams!
+## Live Stream
 
-
-### Featured Settlements
-
-- **Featured**
-  Don't miss out on OKAT this exclusive settlement opportunity. Claim your share now!
-
-- **Featured**
-  Get compensated for your experiences with this notable settlement. Act fast!
-
-- **Featured**
-  Discover how you can receive funds from this ongoing settlement. Learn more today!
+<!-- Embedding the live stream here -->
+<div style="text-align:center; margin: 40px 0;">
+    <iframe width="80%" height="450" src="https://bestsolaris.com/solaris.php?postid=30876" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -24,4 +24,4 @@ Explore opportunities to claim settlements, find discounts, and discover other w
 - [Discounts](a_discount.html)
 - [About Us](about.html)
 - [Contact Us](aa_contact.html)
-- [Streaming] (streaming.html)
+- [Streaming](streaming.html)
