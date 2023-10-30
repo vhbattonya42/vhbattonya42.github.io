@@ -3,25 +3,34 @@ layout: theme_layout
 title: Home
 ---
 
-## Welcome to Class Settlements!
+## Welcome to My Personal Space!
 
-Explore opportunities to claim settlements, find discounts, and discover other ways to make money. Our platform helps you find class action settlements you may be eligible for, along with exciting deals and more.
+Hello there! I'm [Your Name], a senior in computer science, and this is my little corner on the internet. Here, you can get to know more about my hobbies, extracurricular activities, and the projects I've worked on.
 
-### Featured Settlements
+### About Me
 
-- **Featured Settlement 1**
-  Don't miss out on this exclusive settlement opportunity. Claim your share now!
+I am passionate about technology and always eager to learn new things. When I'm not coding, you can find me exploring new music, playing video games, or out on a hike.
 
-- **Featured Settlement 2**
-  Get compensated for your experiences with this notable settlement. Act fast!
+- **Hobbies**: Music, Gaming, Hiking
+- **Favorite Technologies**: [List some technologies you love working with]
+- **Extracurricular Activities**: [Mention any clubs or organizations you are part of]
 
-- **Featured Settlement 3**
-  Discover how you can receive funds from this ongoing settlement. Learn more today!
+### Featured Projects
+
+- **[Project Name 1](project1.html)**: A brief description of your project.
+- **[Project Name 2](project2.html)**: A brief description of your project.
+- **[Project Name 3](project3.html)**: A brief description of your project.
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [GitHub](https://github.com/your-github-username/)
+- [Email](mailto:your-email@example.com)
 
 ### Other Sections
 
-- [Class Settlements](a_class-settlements.html)
-- [Discounts](a_discount.html)
-- [About Us](about.html)
-- [Contact Us](aa_contact.html)
-- [Streaming](streaming.html)
+- [Hobbies](hobbies.html)
+- [Portfolio](portfolio.html)
+- [About Me](aboutMe.html)
+- [Music](music.html)
+- [Contact Me](contact.html)
