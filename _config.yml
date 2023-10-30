@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Money Matters
+title: VictorVibes
 email: vhbattonya42@tntech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of class action settlements and other ways to get free money. 
+  VictorVibes is a dynamic space where the worlds of technology, creativity, and personal passions collide. Created by Victor, a senior in computer science with a zest for life and a love for all things tech, this site is a vibrant showcase of projects, hobbies, and stories from his journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Vbattonyai
