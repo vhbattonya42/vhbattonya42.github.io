@@ -37,5 +37,5 @@ With a heart full of dreams and a mind brimming with ideas, I am looking forward
 
 - [Portfolio](portfolio.html)
 - [My Journey](aboutMe.html)
-- [Favorite Music](favorite_music.html)
+- [Music](music.html)
 - [Contact Me](contact.html)

@@ -11,9 +11,9 @@ Life is all about balance, and my hobbies play a crucial role in keeping me grou
 
 Music is the soundtrack of my life, and my taste is as diverse as my interests:
 
-- **Lofi**: Perfect for those intense studying sessions, lofi helps me focus and get in the zone.
-- **Russ**: When I’m on the road, Russ’s beats are my go-to driving music, setting the perfect vibe for any journey.
-- **Phunk**: Riding my motorcycle feels even better with some Phunk setting the mood, adding an extra layer of enjoyment to the ride.
+- Lofi: Perfect for those intense studying sessions, lofi helps me focus and get in the zone.
+- Russ: When I’m on the road, Russ’s beats are my go-to driving music, setting the perfect vibe for any journey.
+- Phunk: Riding my motorcycle feels even better with some Phunk setting the mood, adding an extra layer of enjoyment to the ride.
 
 ### Motorcycling
 

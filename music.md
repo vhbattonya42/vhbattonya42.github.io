@@ -1,6 +1,6 @@
 ---
 layout: theme_layout
-title: Favorite Music
+title: Music
 ---
 
 ## My Favorite Music
