@@ -3,7 +3,7 @@ layout: theme_layout
 title: Home
 ---
 
-## Welcome to VictorVibes!!
+## Welcome to VictorVibes!
 
 Hello there! I'm Victor, a senior in computer science with a passion for technology, music, and adventure. This is my digital space where I share my journey, projects, and the things I love.
 
