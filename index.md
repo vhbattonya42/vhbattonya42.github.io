@@ -5,11 +5,11 @@ title: Home
 
 ## Welcome to VictorVibes!
 
-Hello there! I'm Victor, a senior in computer science with a passion for technology, music, and adventure. This is my digital space where I share my journey, projects, and the things I love.
+Hello there! I'm Victor, a senior in computer science with a technology passion. This is my digital space where I share my journey, projects, and the things I love.
 
 ### About Me
 
-Born in Brazil and having lived in both the USA and back in Brazil, I have a rich tapestry of experiences that have shaped who I am today. Now, as a college senior with a 4.0 GPA, I am eagerly navigating through the world of computer science, ready to make my mark. [Learn more about me](aboutME.html).
+Born in Brazil and having lived in both the USA and back in Brazil, I have a rich tapestry of experiences that have shaped who I am today. Now, as a college senior, I am eagerly navigating through the world of computer science, ready to make my mark. [Learn more about me](aboutME.html).
 
 ### Featured Projects
 
@@ -19,8 +19,8 @@ Born in Brazil and having lived in both the USA and back in Brazil, I have a ric
 
 ### Hobbies and Interests
 
-- **Music**: From the calming vibes of lofi for studying, to the energetic beats of Russ for driving, and the exhilarating rhythms of Phunk on motorcycle rides, music is a constant companion in my life. 
-- **Gaming**: Immerse yourself in the competitive worlds of League of Legends, Apex Legends, and Counter-Strike, where strategy, skill, and quick thinking reign supreme.
+- **Music**: From the calming vibes of lofi for studying, to the energetic beats of Russ for driving, and the exhilarating rhythms of Phunk on motorcycle rides, music is a companion in my life. 
+- **Gaming**: I really enjoy video games, from the unfortunate League of Legends to Apex Legends and even some Counter-Strike.
 - **[And More...](hobbies.html)**
 
 ### Connect with Me
@@ -31,7 +31,7 @@ Born in Brazil and having lived in both the USA and back in Brazil, I have a ric
 
 ### Looking Ahead
 
-With a heart full of dreams and a mind brimming with ideas, I am looking forward to finishing my studies and diving into the world of technology. From securing a stable 9-5 job to potentially creating a software company that brings finance closer to everyday people, the future is an exciting adventure waiting to unfold.
+As I approach the end of my college life, the future unfolds. My sights are set on securing a dependable corporate job, creating a solid foundation upon which to build my career and personal life. Alongside this, I am drawn to the prospect of delving deeper into the realms of personal finance and investments, exploring the intricacies of wealth management with a thoughtful and measured approach. The idea of intertwining technology with finance also holds a true promise, suggesting a future where I might contribute to making financial literacy and tools more accessible to the everyday person. In these moments of looking ahead, the journey seems less like a race and more like a path to be walked with intention, one step at a time.
 
 ### Other Sections
 
