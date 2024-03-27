@@ -15,4 +15,3 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: October 2019
 - Client: Southwest
 - Category: Website Design
-

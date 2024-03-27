@@ -15,5 +15,3 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 - Date: Aug 2023
 - Tools Used: Github, Tailwind, Docker, 
 - Languages: Python, JavaScript, html, SQL
-
-
