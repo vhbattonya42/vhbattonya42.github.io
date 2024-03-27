@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Victor Vibes!
-    text: "A dynamic space where the worlds of technology, creativity, and personal hobbies collide."
+    text: "Navigate through my projects, skills, and life's journey."
     button: See more
     buttonlink: "#services"
 
@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "Main Skills"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Python"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Machine Learning"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "APIs"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 

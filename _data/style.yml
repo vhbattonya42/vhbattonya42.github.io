@@ -3,6 +3,9 @@
 #white: "#FF0000"
 #black: "#000"
 
+#Font Customization
+font: "Roboto"
+
 #Image Customization
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
