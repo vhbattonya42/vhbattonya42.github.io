@@ -21,14 +21,14 @@
 title: VictorVibes
 email: vhbattonya42@tntech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  VictorVibes is a dynamic space where the worlds of technology, creativity, and personal hobbies collide. Created by Victor, a senior in computer science with a love for all things tech, this site is a showcase of projects, hobbies, and stories from his life.
+  VictorVibes is a dynamic space where the worlds of technology, creativity, and personal hobbies collide. Created by Victor, a software engineer with a love for all things tech. This site is a showcase of projects, hobbies, and stories from his life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Vbattonyai
 github_username:  Vhbattonya42
 
 # Build settings
-theme: minima
+theme: Cvless 
 plugins:
   - jekyll-feed
 
