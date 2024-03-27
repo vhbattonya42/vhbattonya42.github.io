@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Victor Vibes
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : victorgosa@hotmail.com #this is also the email contact forms will go to
 description: Victor Vibes is a dynamic space where the worlds of technology, creativity, and personal hobbies collide. Created by Victor, a software engineer with a love for all things tech. This site is a showcase of projects, hobbies, and stories from his life.
 author     : Victor
 # logo:     #optional, defaults to site title

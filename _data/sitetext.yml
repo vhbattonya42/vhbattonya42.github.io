@@ -106,7 +106,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
     section: team
     people:
       - name: "Something"
-        role: "Lead Designer"
+        role: "something"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -116,7 +116,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Something"
-        role: "Lead Marketer"
+        role: "something"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -126,7 +126,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Something"
-        role: "Lead Developer"
+        role: "something"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
