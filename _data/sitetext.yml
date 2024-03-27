@@ -12,13 +12,13 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Victor Vibes!
-    text: It's Nice To Meet You
+    text: "A dynamic space where the worlds of technology, creativity, and personal hobbies collide."
     button: See more
     buttonlink: "#services"
 
   services:
     title: "Skills"
-    text: "Additional Details"
+    text: "Main Skills"
     section: services
     list:
       - title: "E-Commerce"
@@ -33,13 +33,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Software Portfolio."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "My Life's Timeline"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "To Be <br> Continued <br>..."
 
   about:
     title: "About Me"
@@ -96,7 +96,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
 
   team:
     title: "Achievements"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "My life's biggest accomplishments."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -132,7 +132,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contact Me"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
@@ -155,7 +155,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
