@@ -5,7 +5,7 @@ image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Southwest
+  title: Add
   subtitle: Website Design
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
@@ -13,5 +13,5 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 {:.list-inline}
 - Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Client: Add
+- Category: Add
