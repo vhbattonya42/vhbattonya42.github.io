@@ -28,7 +28,7 @@ twitter_username: Vbattonyai
 github_username:  Vhbattonya42
 
 # Build settings
-theme: minima
+theme: Cvless 
 plugins:
   - jekyll-feed
 
