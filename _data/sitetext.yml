@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Python"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-brands fa-python #find more at https://fontawesome.com/icons
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-laptop-code
+        icon: fas fa-laptop
       - title: "APIs"
         desc: "Your description here, full **Markdown** support"
-        icon: fa-regular fa-window-maximize
+        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
@@ -46,22 +46,27 @@ en: &DEFAULT_EN
     events:
       - title: "Brazil!"
         year: "2002-2009"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Description"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Tennessee, USA!"
-        year: "2009-2015"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      # - title: "Tennessee, USA!"
+      #   year: "2009-2015"
+      #   desc: "Description"
+      #   image: assets/img/timeline/2.jpg
+      #   alt:
+      - title: "Back to Brazil!"
+        year: "2015-2018"
+        desc: "Description."
+        image: assets/img/timeline/4.jpg
         alt:
       - title: "Cleveland High School"
-        year: "2018-2020
+        year: "2018-2020"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Tennessee Technological University"
         year: "2020-2024"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Description ."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
