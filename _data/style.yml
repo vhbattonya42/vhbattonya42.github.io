@@ -4,7 +4,7 @@
 #black: "#000"
 
 #Font Customization
-font: "Roboto"
+font: "cursive"
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
