@@ -28,7 +28,7 @@ twitter_username: Vbattonyai
 github_username:  Vhbattonya42
 
 # Build settings
-theme: jekyll-agency 
+theme: jekyll-theme-hacker
 plugins:
   # - jekyll-feed
 
