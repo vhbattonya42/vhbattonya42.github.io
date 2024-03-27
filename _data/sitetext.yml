@@ -100,7 +100,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Something"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
@@ -110,7 +110,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Something"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -120,7 +120,7 @@ I completed my high school education at Cleveland High School in 2020, filled wi
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Something"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:

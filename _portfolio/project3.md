@@ -15,5 +15,3 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: February 2024
 - Tools Used: APIs, Github
 - Languages: Python
-
-
