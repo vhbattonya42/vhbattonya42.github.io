@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome to VictorVibes!
 
-Hello there! I'm Victor, a senior in computer science with a technology passion. This is my digital space where I share my journey, projects, and the things I love.
+Hello there! I'm Victor, a Software Engineer with a technology passion. This is my digital space where I share my journey, projects, and the things I love.
 
 ### About Me
 
@@ -13,14 +13,14 @@ Born in Brazil and having lived in both the USA and back in Brazil, I have a ric
 
 ### Featured Projects
 
-- **[Project Name 1](project1.html)**: Dive into the details of one of my standout projects, showcasing my skills and creativity.
-- **[Project Name 2](project2.html)**: Explore how I tackled challenges and delivered results in another exciting project.
-- **[Project Name 3](project3.html)**: Discover the innovation and problem-solving skills demonstrated in this project.
+- **[AutoFlyte Prediction Model](project1.html)**: Dive into the details of one of my standout projects, showcasing my skills and creativity.
+- **[Telegram-Discord Stock Market Bot](project2.html)**: Explore how I tackled challenges and delivered results in another exciting project.
+- **[Spotify Model](project3.html)**: Discover the innovation and problem-solving skills demonstrated in this project.
 
 ### Hobbies and Interests
 
-- **Music**: From the calming vibes of lofi for studying, to the energetic beats of Russ for driving, and the exhilarating rhythms of Phunk on motorcycle rides, music is a companion in my life. 
-- **Gaming**: I really enjoy video games, from the unfortunate League of Legends to Apex Legends and even some Counter-Strike.
+- **Music**: From the calming vibes of lofi for studying, to more energetic beats for driving, and the exhilarating rhythms of Phunk on motorcycle rides, music is a companion in my life. 
+- **Gaming**: I really enjoy video games (Who would've guessed!), from the unfortunate League of Legends to Fortnite and even some Counter-Strike.
 - **[And More...](hobbies.html)**
 
 ### Connect with Me

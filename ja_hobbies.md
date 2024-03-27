@@ -12,7 +12,7 @@ Life is all about balance, and my hobbies play a crucial role in keeping me grou
 Music is the soundtrack of my life, and my taste is as diverse as my interests:
 
 - Lofi: Perfect for those intense studying sessions, lofi helps me focus and get in the zone.
-- Russ: When I’m on the road, Russ’s beats are my go-to driving music, setting the perfect vibe for any journey.
+- R&B: When I’m on the road, R&B beats are my go-to driving music, setting the perfect vibe for any journey.
 - Phunk: Riding my motorcycle feels even better with some Phunk setting the mood, adding an extra layer of enjoyment to the ride.
 
 ### Motorcycling
@@ -21,7 +21,7 @@ There’s nothing quite like the freedom of the open road, and my Ninja 400 is t
 
 ### Personal Finance
 
-From the stock market to various investments, I’m all about making smart financial moves and growing my wealth.
+From the stock market to various investments, I’m all about making financial moves and growing my wealth.
 
 ### Gun Range
 
@@ -33,11 +33,11 @@ I’ve been fortunate enough to travel to various countries, including Canada, t
 
 ### Gym
 
-Embarking on a new fitness journey, the gym has become a recent addition to my hobbies, challenging me to push my limits and discover my strength.
+Going head first in my fitness journey! the gym has become a recent addition to my hobbies, challenging me to push my limits and discover my strength.
 
 ### Gaming
 
-Gaming is a world of its own, and I’ve been captivated by it for years. From strategizing in League of Legends, to the fast-paced action in Apex Legends, and the intense competition in Counter-Strike, gaming provides an exciting escape and a way to connect with friends.
+Gaming is a world of its own, and I’ve been captivated by it for years. From league of Legends, to the fast-paced action in Apex Legends, and the intense competition in Counter-Strike, gaming provides an exciting escape and a way to connect with friends.
 
 ### In Conclusion
 

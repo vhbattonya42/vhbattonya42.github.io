@@ -7,7 +7,7 @@ title: Portfolio
 
 Welcome to my portfolio! Here, you can find a showcase of the projects and work I’ve done throughout my time in computer science.
 
-### [Auto ](project1.html)
+### [AutoFlyte Prediction Model ](project1.html)
 A detailed description of the project, the technologies used, and what you learned from it.
 
 ### [Application](project2.html)

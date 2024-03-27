@@ -13,7 +13,7 @@ Feel the calmness wash over you as you dive into your studies, accompanied by th
 
 ### More Music Vibes
 
-- **Driving**: When I’m on the road, I love listening to Russ. His beats provide the perfect backdrop for any journey, making the miles fly by.
+- **Driving**: When I’m on the road, I love listening to R&B. Making the miles fly by.
 - **Motorcycle Rides**: Phunk adds an extra layer of enjoyment to my rides, enhancing the sense of freedom that comes with being on two wheels.
 - **Relaxing**: After a long day, winding down with some soft and calming music helps me to relax and recharge.
 
