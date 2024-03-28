@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "APIs"
         desc: "Your description here, full **Markdown** support"
         icon: fa-solid fa-globe
-        
+
   portfolio:
     title: "Portfolio"
     text: "Software Portfolio."
@@ -77,8 +77,10 @@ en: &DEFAULT_EN
     title: "About Me"
     text: "My story"
     body: "Born in the city of Guaratingueta, SP, Brazil, in 2002, I spent my early childhood immersed in the rich culture of Brazil. At the age of nine, my life took a turn as my family and I went on a new adventure, moving to Tennessee, USA. This move opened up a world of opportunities and experiences that shaped my path forward.
+
 After completing middle school in Tennessee, my family decided to move back to Brazil. However, my heart was set on the opportunities and lifestyle that the US had to offer. With the huge support of my family, I made the bold decision to move back to Tennessee at the age of 15, where I became emancipated and took charge of my own journey.
-I completed my high school education at Cleveland High School in 2020, filled with determination and dreams for the future. Eager to go deeper into the world of technology, I moved to Cookeville to pursue a degree in computer science at Tennessee Technological University. Now, as a recent graduate, I am proud to have maintained a 4.0 GPA throughout my academic journey."
+I completed my high school education at Cleveland High School in 2020, filled with determination and dreams for the future. 
+Eager to go deeper into the world of technology, I moved to Cookeville to pursue a degree in computer science at Tennessee Technological University. Now, as a recent graduate, I am proud to have maintained a 4.0 GPA throughout my academic journey."
     section: about
 
   clients:
@@ -109,36 +111,36 @@ I completed my high school education at Cleveland High School in 2020, filled wi
         role: "something"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: 
+            icon: 
+          - url: 
+            icon: 
+          - url: 
+            icon: 
       - name: "Something"
         role: "something"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: 
+            icon: 
+          - url: 
+            icon: 
+          - url: 
+            icon: 
       - name: "Something"
         role: "something"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: 
+            icon: 
+          - url: 
+            icon: 
+          - url: 
+            icon: 
 
   contact:
     title: "Contact Me"
-    text: "Lorem ipsum or call 123456789"
+    text: "For any inquiries or questions"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
