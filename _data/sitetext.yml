@@ -23,14 +23,14 @@ en: &DEFAULT_EN
     list:
       - title: "Python"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-brands fa-python #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "APIs"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+        icon: fa-solid fa-globe
+        
   portfolio:
     title: "Portfolio"
     text: "Software Portfolio."
