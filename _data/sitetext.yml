@@ -1,0 +1,148 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Welcome to Victor Vibes!
+    text: "Navigate through my projects, skills, and life's journey."
+    button: See more
+    buttonlink: "#services"
+
+  services:
+    title: "Skills"
+    text: "Main Skills"
+    section: services
+    list:
+      - title: "Python"
+        desc: "Proficient in Python programming with experience in data analysis, machine learning, and automation. Used extensively in my capstone project and various internships."
+        icon: fa-brands fa-python #find more at https://fontawesome.com/icons
+      - title: "SQL"
+        desc: "Strong database management skills with SQL, including data querying, optimization, and database design. Essential for handling large datasets and analytics."
+        icon: fas fa-database
+      - title: "APIs"
+        desc: "Experience with RESTful APIs, web services integration, and API development. Built and integrated various APIs for data exchange and automation projects."
+        icon: fa-solid fa-globe
+
+  portfolio:
+    title: "Portfolio"
+    text: "Software Portfolio."
+    section: portfolio
+    closebutton: "Close Project"
+
+  timeline:
+    title: "Timeline"
+    text: "My Life's Timeline"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Sao Paulo, Brazil!"
+        year: "2002-2009"
+        desc: "My early childhood in Sao Paulo, Brazil. Growing up surrounded by Brazilian culture, family, and the vibrant atmosphere that shaped my early years."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Tennessee, USA!"
+        year: "2009-2015"
+        desc: "A major life change at age 9 - moving to Tennessee with my family. Learning English, adapting to American culture, and discovering new opportunities."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Cleveland High School"
+        year: "2018-2020"
+        desc: "After moving back to Tennessee on my own at 15 and getting emancipated, I completed my high school education here. This period taught me independence and determination."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Controls Engineer Internship"
+        year: "2022"
+        desc: "My first professional experience at Multi-Dimensional Integration in Shrewsbury, PA. Learned about industrial automation and control systems."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Software Developer Internship"
+        year: "2023"
+        desc: "Worked on my capstone project at AutoFlyte in Brentwood, TN. Developed a predictive analytics application using Python, machine learning, and modern web technologies."
+        image: assets/img/timeline/5.jpg
+        alt:
+      - title: "Graduated with 3.98 GPA"
+        year: "2024"
+        desc: "Successfully completed my computer science degree at Tennessee Tech University with outstanding academic performance. A proud moment after years of hard work."
+        image: assets/img/timeline/6.jpg
+        alt:
+      - title: "VS Product Supply MEx Internship"
+        year: "2024"
+        desc: "Internship at Bayer in St. Louis, MO, working on product supply and manufacturing excellence. Gained valuable experience in corporate software solutions."
+        image: assets/img/timeline/7.jpg
+        alt:
+      - title: "Technical Support Engineer"
+        year: "2025"
+        desc: "Started my professional career at Magview as a Technical Support Engineer, helping customers with software solutions and technical challenges."
+        image: assets/img/timeline/8.jpg
+        alt:
+        # you can enforce the alignment
+        #align: left
+    end: "To Be <br> Continued <br>..."
+
+  about:
+    title: "About Me"
+    text: "My story"
+    body: "Hey there! I'm Victor, and my story is pretty wild when you think about it. I was born in Guaratingueta, Brazil back in 2002, and spent my early years soaking up Brazilian culture. When I was nine, my family decided to move to Tennessee, USA - talk about a big change!
+
+After middle school, my family moved back to Brazil, but I just couldn't shake the feeling that the US was where I wanted to be. So at 15, I made probably the craziest decision of my life - I moved back to Tennessee on my own and got emancipated. Yeah, I know, it sounds intense, but I was determined to make it work.
+
+I finished high school at Cleveland High School in 2020, then headed to Tennessee Tech University to study computer science. Fast forward to now, and I'm proud to say I graduated with a 3.98 GPA. Along the way, I've had some amazing internship experiences that really shaped my career path.
+
+The journey hasn't always been easy, but every challenge has made me stronger. From buying my first house at 18 to landing internships at companies like MDI and Bayer, I've learned that hard work and determination really do pay off."
+    section: about
+
+  team:
+    title: "Achievements"
+    text: "My life's biggest accomplishments."
+    subtext: These milestones represent the determination, hard work, and independence that have shaped my journey. Each achievement tells a story of resilience and ambition.
+    section: team
+    people:
+      - name: "Emancipated at 15"
+        role: "Living Independently"
+        image: assets/img/achievements/1.jpg
+      - name: "First Time Home Buyer"
+        role: "Financial Independence at 18"
+        image: assets/img/achievements/2.jpg
+      - name: "3.98 GPA Graduation"
+        role: "Academic Excellence"
+        image: assets/img/achievements/3.jpg
+
+  contact:
+    title: "Contact Me"
+    text: "For any inquiries or questions"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://linkedin.com/in/vbattonyai
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/Vhbattonya42
+        icon: "fab fa-github"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
